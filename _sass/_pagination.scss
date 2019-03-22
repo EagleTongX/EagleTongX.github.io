@@ -1,32 +1,44 @@
 .pagination {
-  font-size: 1rem;
-  font-family: $font-family;
-  font-weight: 300;
+  border-top: .5px solid $grey-2;
+  font-family: $palatino;
+  padding-top: 2rem;
+  position: relative;
   text-align: center;
-}
 
-.pagination a, .pagination .disabled {
-  -webkit-transition: all 0.2s ease-in-out;
-  -moz-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
-  color: #111333;
-  padding: 1em 1.5em;
-}
+  span {
+    color: $default-shade;
+    font-size: 1.1rem;
+  }
 
-.pagination .button {
-  font-size: 1rem;
-  font-weight: 300;
-  letter-spacing: 1px;
-}
+  .top {
+    @include transition(all .3s ease-out);
+    color: $default-color;
+    font-family: $sans-font;
+    font-size: 1.1rem;
+    opacity: .6;
 
-.button-disabled {
-  opacity: 0.55;
-  background-color: #999;
-}
+    &:hover {
+      opacity: 1;
+    }
+  }
 
-.button-disabled:hover,
-.button-disabled:active,
-.button-disabled:focus {
-  cursor: not-allowed;
-  background-color: #999;
+  .arrow {
+    @include transition(all .3s ease-out);
+    color: $default-color;
+    position: absolute;
+
+    &:hover,
+    &:focus {
+      opacity: .6;
+      text-decoration: none;
+    }
+  }
+
+  .left {
+    left: 0;
+  }
+
+  .right {
+    right: 0;
+  }
 }

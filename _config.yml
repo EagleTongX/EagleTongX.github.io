@@ -1,3 +1,20 @@
-theme: jekyll-theme-slate
-title: Welcome to Eagle's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates.
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Xin Tong
+paginate:       15
+baseurl:        ""
+url:            "https://eagletongx.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# Gems
+gems:
+  - jekyll-paginate
