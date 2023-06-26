@@ -9,11 +9,17 @@ redirect_from:
   - /download/
 ---
 
-# About
+# About me
 
-Hello, I'm Eagle. 
+Hi, I’m Eagle! I’m a lifelong learner and explorer. Here’s a glimpse of who I am:
 
-## Journey Overview
+- **Software engineer at AWS**, where I built new AWS SaaS application
+- **Founder of What’s Your Answer org**, a dynamic platform amplifying diverse perspectives on life's profound questions.
+- **Global Shaper of the World Economic Forum**, where I collaborate with other young leaders to address global challenges and create positive change in the world.
+- **Head of partnerships at OneRise**, a startup accelerator focused on empowering immigrant founders by providing resources, mentorship, and support.
+- **Entrepreneur passionate about EdTech and AI**, I believe in leveraging cutting-edge technologies to revolutionize education and create accessible, personalized learning experiences for all.
+
+<!-- ## Journey Overview
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
@@ -32,11 +38,23 @@ Hydejack's cover page on a variety of screen sizes.
 It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
 
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
+{:.lead} -->
+
+
+## What you will find here
+
+- My product analyse and two cents on EdTech and AI. 
+- My reading notes and learning notes.
+- My project update.
+- Maybe some photograph. :) 
+
+
+## Topics I'm focusing on
+
+**AI**, **EdTech**, **Lifelong Learning**, **Mental Models**, **Sustainable Development**
 
 
 
-
-
-
+## Books I'm reading this month
+![Screenshot](assets/img/book.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
