@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/me.png
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
@@ -10,6 +10,15 @@ redirect_from:
 ---
 
 # About me
+<!-- ![img](/assets/img/me.png) -->
+<center><img src="/assets/img/me.png" width="250"></center>
+
+
+<p>
+
+
+
+</p>
 
 Hi, I’m Eagle! I’m a lifelong learner and explorer. Here’s a glimpse of who I am:
 
@@ -56,5 +65,4 @@ It includes a blog that is suitable for both prose and technical documentation, 
 
 
 ## Books I'm reading this month
-![Screenshot](assets/img/book.jpg){:.lead width="1920" height="1080" loading="lazy"}
-
+<img src="/assets/img/book.jpg" width="200">

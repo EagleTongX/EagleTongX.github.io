@@ -1,5 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-26T09:24:02-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Eagle Tong</title><subtitle>Eagle Tong&apos;s personal website
-</subtitle><author><name>Eagle Tong</name><email>eaglextong@gmail.com</email></author><entry><title type="html">Introducing Hydejack 9</title><link href="http://localhost:4000/blog/2020-07-03-introducing-hydejack-9/" rel="alternate" type="text/html" title="Introducing Hydejack 9" /><published>2020-07-03T00:00:00-04:00</published><updated>2023-06-18T22:09:57-04:00</updated><id>http://localhost:4000/blog/introducing-hydejack-9</id><content type="html" xml:base="http://localhost:4000/blog/2020-07-03-introducing-hydejack-9/">&lt;p class=&quot;lead&quot;&gt;Version 9 is the most complete version of Hydejack yet.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-26T21:45:30-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Eagle Tong</title><subtitle>Eagle Tong's personal website
+</subtitle><author><name>Eagle Tong</name><email>eaglextong@gmail.com</email></author><entry><title type="html">How To Learn?</title><link href="http://localhost:4000/blog/2023-07-26-how-to-learn/" rel="alternate" type="text/html" title="How To Learn?" /><published>2023-07-26T00:00:00-04:00</published><updated>2023-07-26T21:45:30-04:00</updated><id>http://localhost:4000/blog/how-to-learn</id><content type="html" xml:base="http://localhost:4000/blog/2023-07-26-how-to-learn/">&lt;p&gt;With the world is evovling rapidly, espcially with emergency of AI, being able to learn effectivly in many different subjects is one of the most important assets we need to possess. In this article, I will share my learning from the course &lt;a href=&quot;https://www.coursera.org/learn/learning-how-to-learn/home/info&quot;&gt;Learning How To Learn.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope this could be helpful on your learning journey.&lt;/p&gt;
+
+&lt;h3 id=&quot;focused-mode-and-diffuse-mode&quot;&gt;Focused Mode and Diffuse Mode&lt;/h3&gt;
+&lt;p&gt;When handling large tasks, our brain use two modes of thinking: &lt;strong&gt;focused mode and diffuse mode.&lt;/strong&gt; When we concentrate intently to learn something and try to understand it, we are using focused mode. When our minds are free to wander, we shift into the diffuse mode. Both modes are equally important for learning.&lt;/p&gt;
+
+&lt;p&gt;Learning something difficult can take time, our minds need to be able to transition back and forth between two different learning modes which helps us learn effectively.&lt;/p&gt;
+
+&lt;p&gt;When we learn something new, we can work in intense, focused burst, and when ideas stop flowing, we can redirect our attention to something mentally freeing like going for a walk or excercise, to let our minds enter the diffuse mode.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-chunks-to-help-learning&quot;&gt;Use Chunks to Help Learning&lt;/h3&gt;
+
+&lt;h4 id=&quot;what-is-chunk&quot;&gt;What is Chunk?&lt;/h4&gt;
+
+&lt;p&gt;Chunk is the mental leap that helps you unite bits of information together through meaning. Once you chunk an idea, you don’t need to remember all the little details, you’ve grasped the main idea.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-form-a-chunk&quot;&gt;How to Form a Chunk?&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Focus your undivided attention on the information you want to chunk.&lt;/li&gt;
+  &lt;li&gt;Understand the basic idea you’re trying to chunk. Only doing it yourself helps create the neural patterns that underlie true mastery.&lt;/li&gt;
+  &lt;li&gt;Gain context, to see not just how but also when to use this chunk.
+    &lt;ul&gt;
+      &lt;li&gt;Bottom-up learning (chunking)&lt;/li&gt;
+      &lt;li&gt;Top-down leanring (big picture)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;use-analogy-and-visual-imagery&quot;&gt;Use Analogy and Visual Imagery&lt;/h3&gt;
+
+&lt;p&gt;Analogy and visual imagery are two helpful tools which can enhance your memory system. When learning something new, try to create an analogy with something you are already familiar with or form a memorable visual image representing the key item you want to remember.&lt;/p&gt;
+
+&lt;p&gt;Afterward, use repetition to firmly lodge the memorable item into your long-term memory. However, avoid repeating it multiple times in a single day; instead, space out the repetitions sporadically over several days.”&lt;/p&gt;
+
+&lt;h3 id=&quot;be-honest-with-yourself&quot;&gt;Be Honest with Yourself&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The first principle is that you must not fool yourself and you are the easiest person to fool. 
+                                                        - Richard Feynman&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Be honest with yourself, in another words, don’t be fooled by illusions of competency. This often occurs during the learning process, for example, when you work on a question, look at the solution, and feel that you know it. However, the solution is not truly yours; you’ve done almost nothing to integrate those concepts into your own underlying neural circuitry. This is the most common illusion of competence in learning.&lt;/p&gt;
+
+&lt;p&gt;Here are some tips to enhance your learning process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Try to use recall; the retrieval process can facilitate deep learning.&lt;/li&gt;
+  &lt;li&gt;Before making marks, attempt to recall the main ideas.&lt;/li&gt;
+  &lt;li&gt;Limit your underlying or highlighting to a minimum.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Remember, simply wanting to learn the material and spending a lot of time with it doesn’t guarantee that you’ll actually learn it. A helpful way to ensure genuine learning and avoid fooling yourself with the illusion of competence is to test yourself on whatever you’re learning.&lt;/p&gt;
+
+&lt;h3 id=&quot;be-a-teacher&quot;&gt;Be a “Teacher”&lt;/h3&gt;
+
+&lt;p&gt;Teaching is one of the best ways to learn. When you’ve learned something, try explaining it to somebody else or take a blank piece of paper and write about it as if you were teaching someone else. This process helps ensure that you have truly learned the material&lt;/p&gt;
+
+&lt;p&gt;When you do this, aim to explain it as simply as possible, avoiding jargon and complexity. Imagine you’re teaching a 10-year-old child. This approach not only reinforces your understanding but also enhances your ability to communicate ideas effectively.&lt;/p&gt;
+
+&lt;h3 id=&quot;beat-that-monkey&quot;&gt;Beat that Monkey&lt;/h3&gt;
+
+&lt;p&gt;People have a common enemy on their way of learning  - Procrastination. In this famouse &lt;a href=&quot;https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator?language=en&quot;&gt;TED Talk&lt;/a&gt;, Tim Urban portrayed the procrastination as an “instant gratification monkey”. So how does procrastination happen?&lt;/p&gt;
+
+&lt;p&gt;When you learn something or do something that’s not easy, it can trigger feelings of unhappiness. Consequently, you may find yourself wanting to divert your attention to something more pleasant, which provides temporary happiness.&lt;/p&gt;
+
+&lt;p&gt;Now, how we can win the procrastination?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Focus on the process not the outcome.&lt;/li&gt;
+  &lt;li&gt;Use Pomodoro Technique, ensuring you stay focused for each 25-minute interval and rewarding yourself when you complete it.&lt;/li&gt;
+  &lt;li&gt;Create a daily TODO list, not only featuring key tasks, but also interspersing other tasks with your learning to utilize them as the diffuse mode breaks.&lt;/li&gt;
+  &lt;li&gt;“Eat your frog first in the morning.” Try tackling the most important and least enjoyable task first.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;end&quot;&gt;End&lt;/h3&gt;
+
+&lt;p&gt;As a lifelong learner, I firmly believe that learning is not just about the destination, it’s about continuous growth, curiosity and passion for knowledge that enrich our lives. Happy learning and enjoy the ride!&lt;/p&gt;</content><author><name>Eagle Tong</name><email>eaglextong@gmail.com</email></author><category term="blog" /><category term="Learning" /><summary type="html">With the world is evovling rapidly, espcially with emergency of AI, being able to learn effectivly in many different subjects is one of the most important assets we need to possess. In this article, I will share my learning from the course Learning How To Learn.</summary></entry><entry><title type="html">Introducing Hydejack 9</title><link href="http://localhost:4000/blog/2020-07-03-introducing-hydejack-9/" rel="alternate" type="text/html" title="Introducing Hydejack 9" /><published>2020-07-03T00:00:00-04:00</published><updated>2023-06-18T22:09:57-04:00</updated><id>http://localhost:4000/blog/introducing-hydejack-9</id><content type="html" xml:base="http://localhost:4000/blog/2020-07-03-introducing-hydejack-9/">&lt;p class=&quot;lead&quot;&gt;Version 9 is the most complete version of Hydejack yet.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;#linking-in-style&quot;&gt;Modernized&lt;/a&gt; &lt;a href=&quot;#whats-in-the-cards&quot;&gt;design&lt;/a&gt;, &lt;a href=&quot;#ready-for-the-big-screen&quot;&gt;big headlines&lt;/a&gt;, big new features: &lt;a href=&quot;#built-in-search&quot;&gt;Built-In Search&lt;/a&gt;, &lt;a href=&quot;#sticky-table-of-contents&quot;&gt;Sticky Table of Contents&lt;/a&gt;, and &lt;a href=&quot;#auto-hiding-navbar&quot;&gt;Auto-Hiding Navbar&lt;/a&gt;. That &lt;a href=&quot;#and-much-more&quot;&gt;and more&lt;/a&gt; is Hydejack 9.&lt;/p&gt;
 
@@ -323,7 +400,7 @@ A caption to an image.&lt;/p&gt;
 
 &lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Javascript code with syntax highlighting.&lt;/span&gt;
 &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fun&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;dateformat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i18n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;./lang/&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;dateformat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i18n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;./lang/&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;l&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -461,7 +538,7 @@ A caption to an image.&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The final element.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Eagle Tong</name><email>eaglextong@gmail.com</email></author><category term="blog" /><summary type="html">There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/blog/2012-02-07-example-content/" rel="alternate" type="text/html" title="Example Content" /><published>2012-02-07T00:00:00-05:00</published><updated>2023-06-18T22:09:57-04:00</updated><id>http://localhost:4000/blog/example-content</id><content type="html" xml:base="http://localhost:4000/blog/2012-02-07-example-content/">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Eagle Tong</name><email>eaglextong@gmail.com</email></author><category term="blog" /><category term="test" /><summary type="html">There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/example-content-ii.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/blog/2012-02-07-example-content/" rel="alternate" type="text/html" title="Example Content" /><published>2012-02-07T00:00:00-05:00</published><updated>2023-06-18T22:09:57-04:00</updated><id>http://localhost:4000/blog/example-content</id><content type="html" xml:base="http://localhost:4000/blog/2012-02-07-example-content/">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
@@ -593,4 +670,4 @@ A caption to an image.&lt;/p&gt;
   &lt;/tfoot&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;</content><author><name>Eagle Tong</name><email>eaglextong@gmail.com</email></author><category term="blog" /><summary type="html">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</summary></entry></feed>
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;</content><author><name>Eagle Tong</name><email>eaglextong@gmail.com</email></author><category term="blog" /><category term="blog" /><summary type="html">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</summary></entry></feed>
