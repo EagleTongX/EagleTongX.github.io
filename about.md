@@ -23,9 +23,9 @@ redirect_from:
 Hi, I’m Eagle! I’m a lifelong learner and explorer. Here’s a glimpse of who I am:
 
 - **Software engineer at AWS**, where I built new AWS SaaS application
-- **Founder of What’s Your Answer org**, a dynamic platform amplifying diverse perspectives on life's profound questions.
-- **Global Shaper of the World Economic Forum**, where I collaborate with other young leaders to address global challenges and create positive change in the world.
-- **Head of partnerships at OneRise**, a startup accelerator focused on empowering immigrant founders by providing resources, mentorship, and support.
+- **Founder of [What’s Your Answer](http://www.whatsyouranswer.org/) org**, a dynamic platform amplifying diverse perspectives on life's profound questions.
+- **[Global Shaper](https://www.globalshapers.org/) of the World Economic Forum**, where I collaborate with other young leaders to address global challenges and create positive change in the world.
+- **Head of partnerships at [OneRise](http://onerise.nyc/)**, a startup accelerator focused on empowering immigrant founders by providing resources, mentorship, and support.
 - **Entrepreneur passionate about EdTech and AI**, I believe in leveraging cutting-edge technologies to revolutionize education and create accessible, personalized learning experiences for all.
 
 <!-- ## Journey Overview
@@ -54,13 +54,13 @@ It includes a blog that is suitable for both prose and technical documentation, 
 
 - My product analyse and two cents on EdTech and AI. 
 - My reading notes and learning notes.
-- My project update.
-- Maybe some photograph. :) 
+- My projects update.
+- Maybe some photos. :) 
 
 
 ## Topics I'm focusing on
 
-**AI**, **EdTech**, **Lifelong Learning**, **Mental Models**, **Sustainable Development**
+AI, EdTech, Lifelong Learning, Mental Models, Sustainable Development
 
 
 

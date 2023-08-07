@@ -28,7 +28,7 @@ description:           >
   Eagle Tong's personal website
 
 # A shorter description for the sidebar.
-tagline:               build as entrepreneur, live as artist
+tagline:               Build as entrepreneurs, live as artists
 
 # A list of keywords for your blog
 keywords:              AI, Lifelong Learning, EdTech, Entrepreneurship, Exploring Life
@@ -53,8 +53,10 @@ menu:
     url:               /about/
   - title:             Blog
     url:               /blog/
-  - title:             Projects
-    url:               /docs/
+  - title:             Resume
+    url:               /assets/img/CV_Eagle.pdf
+  # - title:             Projects
+  #   url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
